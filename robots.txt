@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://themeix.github.io/sitemap.xml
+Sitemap: https://themeix.github.io/test-code//sitemap.xml
